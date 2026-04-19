@@ -1,26 +1,14 @@
-我是一名golang开发者。
+## 用户背景概要
 
-目前学习过的
-
-golang：基本语法和一些高阶语法（比如接口，泛型。协程等）
-
-Mysql：中的基本sql语句，比如select，where ，join in等基础sql语句
-
-Redis：基本的redis定义的数据类型，以及用redis来实现异步消息队列的逻辑
-
-Linux：基本的linux命令
-
-Docker：基本的docker命令，但现在对于docker不太熟悉，应该是可以看懂一些命令，但自己敲不出来。
-
-Python : 基本语法和一些高级语法（装饰器和异步）
-
-一些其他的知识：
-
-Agent开发中关于Skills，Function Call ，MCP，Context的基本认知
-
-如何更好地使用claude code（看的官方文档）
-
-目前的目标：学习使用Go来Agent开发以及对一些开源的Go相关的项目贡献（不需要很高的start量，需要在我能力范围内且可以提高我的认知的项目）
-
-
+- **Go 技能**：基础至中等水平，熟悉语法、接口、泛型、协程，使用过 net/http 和 Gin/Echo/Fiber
+- **并发模型**：基础到中等掌握，能使用但未深入理解原理
+- **数据库**：MySQL 基础 SQL，Redis 基础数据类型与异步队列
+- **系统**：Linux 基础命令，Docker 基础（能看懂命令）
+- **Python**：基础语法和高级特性（装饰器、异步）
+- **Agent 开发知识**：了解 Skills、Function Call、MCP、Context 基本概念
+- **MCP 经验**：用 Python 编写过简单 MCP 服务器，对协议大致了解
+- **开源经验**：从未参与过
+- **学习偏好**：循序渐进教程，每周可投入 20+ 小时
+- **兴趣点**：记忆（Memory）、工具调用（Function Calling）、上下文管理、Skills 和 Subagent
+- **项目偏好**：中型框架，代码质量高、社区活跃、技术栈匹配、有明确贡献指南
 
